@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ハルトキ ～Spring Moment～",
+  "base_artist": "Chihiro Yonekura",
+  "createdAt": "2025-12-26T06:03:56.332928Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハルトキ ～Spring Moment～",
+      "artist": "米倉千尋",
+      "has_synced": true,
+      "path": "select/01_ハルトキ_~Spring_Moment~_米倉千尋.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハルトキ~Spring Moment~",
+      "artist": "米倉 千尋",
+      "has_synced": false,
+      "path": "select/pl_01_ハルトキ~Spring_Moment~_米倉_千尋.txt"
+    }
+  ]
+}
